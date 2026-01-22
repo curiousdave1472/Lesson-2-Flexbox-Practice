@@ -1,0 +1,1 @@
+If you want certain styling to be applied to each item, for instance within the Sample 1 div, you can use the `.items` selector to select any element that has `class="items"`. Then add whatever background color, padding, margin, border, etc... that you want each individual item to have. 
