@@ -8,3 +8,18 @@ html {
   flex-direction: row;
   justify-content: space-between;
 }
+
+.sample2 {
+  color: green;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.Sample3 {
+  color: red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
