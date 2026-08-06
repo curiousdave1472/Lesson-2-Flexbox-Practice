@@ -6,4 +6,5 @@ html {
   color: blue;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
