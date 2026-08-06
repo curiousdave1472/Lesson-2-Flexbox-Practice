@@ -18,6 +18,7 @@ html {
 
 .sample3 {
   color: red;
+  text-weight: 20px;
   display: flex;
   justify-content: space-around;
 
