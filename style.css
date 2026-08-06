@@ -19,7 +19,6 @@ html {
 .sample3 {
   color: red;
   display: flex;
-  flex-direction: row;
   justify-content: space-around;
 
 }
