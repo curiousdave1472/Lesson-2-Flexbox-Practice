@@ -19,6 +19,6 @@ html {
 .sample3 {
   color: red;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 
 }
